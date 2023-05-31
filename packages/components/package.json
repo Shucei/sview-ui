@@ -1,0 +1,21 @@
+{
+  "name": "@sview-plus/components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [
+    "sview-ui",
+    "vue3组件库"
+  ],
+  "author": "karl fang",
+  "license": "MIT",
+  "typings": "lib/index.d.ts"
+}
